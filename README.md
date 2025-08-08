@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<!--
 - I'm currently working on IBM as an Application Developer.
 - I'm currently learning Python and React.
-
+-->
 <!--
 **cpinedogarcia/cpinedogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
